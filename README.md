@@ -8,3 +8,6 @@ Web scraped daily headline data from 12 top health news sources to analyze trend
 
 ### Infection Cell Automata Simulation
 Modeled spread of common contagious illnesses with simple cell automata simulation based on SIR model with modifiable parameters. Developed basic underlying probability distribution to model spread of disease from one individual to another.
+
+### Patient Medical History Q&A Chatbot
+Built simple chatbot framework using Langchain and GPT4All model to answer questions regarding synthetic patient EHR data (generated with Synthea) cleaned and parsed into documents.
